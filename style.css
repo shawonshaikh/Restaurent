@@ -1,0 +1,70 @@
+body{
+    margin: 5% 5% 5% 5%;
+    background-color: rgb(255, 250, 244);
+}
+
+h1{
+    margin: 5% 5%;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    text-align: center;
+    background-color:#FF5733;    
+}
+
+h4{
+    color: red;
+    text-align: center;
+    background-color:ghostwhite
+}
+
+.s2{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: dotted;
+    color: blueviolet;
+    
+}
+
+.container-fluid{
+    text-align: center;
+    
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightslategrey;
+}
+.card-body{
+    text-align: center;
+}
+.navbar-brand{
+    color: #FF5733;
+    font-weight: bold;
+}
+.carousel-inner{
+    border-radius: 10px;
+}
+.kel{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    
+}
+#subscribe{
+    background-color: rgba(255, 160, 122, 0.401);
+    border-radius: 10px;
+    width: 50%;
+    padding-left: 60px;
+    padding-right: 60px;
+    text-align: center;
+    
+}
+#subscribe h6{
+    color: rgb(110, 110, 110);
+}
+
+footer{
+    text-align: center;
+    font-weight: 500;
+   
+}
+
